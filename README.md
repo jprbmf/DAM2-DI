@@ -99,6 +99,35 @@ print (saludo)
 Seccion de ejemplo de enlace interno
 
 ## Imágenes
-![Mago](https://i.pinimg.com/1200x/d2/5d/0f/d25d0f90c1b8ecab22e10ace99a1e68f.jpg)
+![Mago](https://i.pinimg.com/736x/86/9e/01/869e019a08b33dc492b549ceed13b167.jpg)
 
+## Columnas
 
+| Aliniacion Izqda. | Alineacion Centro | Alineacion Dcha. |
+| :--- | :---: | :---: |
+| Dato 1 | Dato 2 | Dato 3 |
+| Dato 3 | Dato 4 | Dato 5 |
+
+## Desplegable
+
+<details>
+    <summary>Este es el resumen de la seccion desplegable</summary>
+Grammarly has helped me write and title many of my assignment papers for school. It has helped me rewrite and simplify my sentences as well as clarify and target a specific tone and feeling in my writing. I absolutely love this software, it's amazing and works wonders, especially on college papers
+</details>
+
+<details>
+    <summary>¿Cual sintaxis Pthon para imprimir por pantalla?</summary>
+    ```python
+    print( 'texto' )
+    ```
+</details>
+
+## Mermaid
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
